@@ -53,3 +53,25 @@
     width: auto;
     height: 200px;
  }
+ .pics1{
+
+   width: auto;
+   height: 300px;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center; 
+   padding-inline: 10px;
+
+   
+ }
+
+ #pics2{
+
+   width: auto;
+   height: 400px;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center; 
+   padding-inline: 10px;
+   
+ }
